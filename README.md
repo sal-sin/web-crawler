@@ -1,2 +1,2 @@
-# web-scraping
-Python programs that use the Scrapy framework to scrape through online biological databases  to extract genetic data
+# Extraction of genetic information from biological databases using Scrapy
+Biological databases are libraries containing genetic data of different organisms. These databases provide useful information for further biological discovery and for studying behavior of different moleules. This project aims to automate extraction of miRNA data from two databases - [MirBase](www.mirbase.org) & [MiRTarBase](www.mirtarbase.org).
